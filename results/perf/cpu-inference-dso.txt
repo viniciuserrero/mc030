@@ -1,0 +1,31 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 26K of event 'cycles:P'
+# Event count (approx.): 26784967630
+#
+# Overhead  Shared Object                                    
+# ........  .................................................
+#
+    54.82%  libgomp.so.1                                     
+    17.46%  libscipy_openblas64_-32a4b2a6.so                 
+    11.10%  libtorch_cpu.so                                  
+     9.44%  python3.12                                       
+     3.07%  [kernel.kallsyms]                                
+     1.36%  libc.so.6                                        
+     1.12%  libtorch_python.so                               
+     0.63%  libc10.so                                        
+     0.32%  [JIT] tid 2659                                   
+     0.32%  ld-linux-x86-64.so.2                             
+     0.24%  libstdc++.so.6.0.33                              
+     0.10%  libm.so.6                                        
+     0.01%  [vdso]                                           
+     0.01%  libcrypto.so.3                                   
+     0.00%  _multiarray_umath.cpython-312-x86_64-linux-gnu.so
+
+
+#
+# (Cannot load tips.txt file, please install perf!)
+#

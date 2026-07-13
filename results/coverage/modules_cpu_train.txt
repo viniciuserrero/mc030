@@ -1,0 +1,33 @@
+Module                           | Coverage %  | Lines Hit   | Lines Total
+------------------------------------------------------------------------
+third_party/pybind11             | 54.0      % | 2513        | 4653
+third_party/cpuinfo              | 46.9      % | 1119        | 2388
+c10                              | 35.9      % | 4150        | 11557
+caffe2                           | 16.5      % | 184         | 1116
+third_party/nlohmann             | 11.6      % | 287         | 2472
+build                            | 11.0      % | 21811       | 198008
+aten                             | 10.4      % | 11109       | 106952
+third_party/fmt                  | 9.2       % | 352         | 3817
+third_party/protobuf             | 8.2       % | 2159        | 26463
+third_party/miniz-3.0.2          | 7.0       % | 239         | 3434
+torch                            | 6.6       % | 29272       | 441439
+third_party/ittapi               | 4.2       % | 24          | 566
+third_party/kineto               | 1.4       % | 42          | 2999
+third_party/ideep                | 1.3       % | 3440        | 274947
+third_party/sleef                | 1.0       % | 42          | 4115
+third_party/tensorpipe           | 0.2       % | 23          | 14063
+third_party/gloo                 | 0.1       % | 2           | 3261
+third_party/onnx                 | 0.0       % | 4           | 13113
+third_party/fbgemm               | 0.0       % | 4           | 23840
+third_party/FP16                 | 0.0       % | 0           | 8
+third_party/FXdiv                | 0.0       % | 0           | 78
+third_party/NNPACK               | 0.0       % | 0           | 1055
+third_party/XNNPACK              | 0.0       % | 0           | 101963
+third_party/concurrentqueue      | 0.0       % | 0           | 760
+third_party/cpp-httplib          | 0.0       % | 0           | 2700
+third_party/flatbuffers          | 0.0       % | 0           | 584
+third_party/pocketfft            | 0.0       % | 0           | 1611
+third_party/pthreadpool          | 0.0       % | 0           | 3121
+third_party/valgrind-headers     | 0.0       % | 0           | 10
+------------------------------------------------------------------------
+TOTAL (todos os arquivos)        | 6.5       % | 82187       | 1264666

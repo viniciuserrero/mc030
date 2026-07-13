@@ -1,0 +1,72 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 65K of event 'cycles:P'
+# Event count (approx.): 66221540223
+#
+# Overhead  Shared Object                                               
+# ........  ............................................................
+#
+    23.08%  libtorch_cpu.so                                             
+    22.19%  libgomp.so.1                                                
+    15.69%  python3.12                                                  
+    13.32%  libscipy_openblas64_-32a4b2a6.so                            
+     8.68%  [kernel.kallsyms]                                           
+     1.44%  libc.so.6                                                   
+     1.38%  cfwehu76jmzyuopshnjdh36itxy25glxqavd6lwjuwnftbksdkz3.main.so
+     1.32%  cnp67w3euczfnz7yflcgzwpyvipjsraelgupzrao2flfhfpwnba5.main.so
+     1.31%  cja62ehheudk6fvnccrzhqrvq5e6afy2gfqi7espbwotkapjc4w3.main.so
+     1.31%  cy3zrsrj2hl3yfytncbsvh3uqehshkur25wy6jxpqjfwtewrsnpz.main.so
+     0.89%  libtorch_python.so                                          
+     0.66%  ccx2tyaych6eqhnuw7uf5lttqczhhuhflc5om2n5ax5powel36vz.main.so
+     0.66%  c2icc24img7fs5wehpkgvlrpktgjthupv54aln7fxnci6dxysonx.main.so
+     0.64%  cmrdns77f6uf2odtpttg7ijmhkjvgqsn7jvtftkofrh6cxvihy5v.main.so
+     0.63%  cdykzdqsuw6ob7jepninveey5l4eqo25pqmdwky5etggv2trls34.main.so
+     0.63%  cuzli6iddd2i7iexnfr5q4ohwpzsy6xuqct6iga3gaucsw3sownj.main.so
+     0.62%  cg64o4zo2rjtiifkzrunxf3u3aa4j6i2vxt4pbizr6o2zrkg3bdh.main.so
+     0.62%  casdsxfwjb3lpa6dfv6enffnq4u3r5ypag3lg6jhser42trusnkx.main.so
+     0.62%  ca54yepavdxfyugpht6jtxlqbiky62vfaqeh64zyt45otnn3foas.main.so
+     0.60%  chavuw7aj2edprk4ovsvi4elvou7g5dtlbtsz3uxthyswftkmx7y.main.so
+     0.55%  cc1plus                                                     
+     0.35%  cs5obcges3mj4l3g62fiwlui3wjhpiyl6fllvusq7am3ekrd4bvi.main.so
+     0.33%  c3wgwua5mupdofnqybt264ldhftaubu3ln2uex4j5x6img42cfbc.main.so
+     0.32%  libc10.so                                                   
+     0.32%  c33i2t2bsl2kt3j4sgmzxte2oocu2e3hgck24u7hi6nzzvfdmyll.main.so
+     0.28%  libstdc++.so.6.0.33                                         
+     0.25%  ld-linux-x86-64.so.2                                        
+     0.23%  cxkfq6ixuyfat5xnx5mlrpnuv4rkj6xyq5gowanufgzj4hmykxnn.main.so
+     0.17%  libcrypto.so.3                                              
+     0.16%  c7hdx4oimsjepsf3l6vhmwmopi2wicc3efbdysjjz3oeark6c4be.main.so
+     0.15%  c5xu43jjifw6x6vaqk3r7emzruqwzjygacda2puzunxrmlgt4cir.main.so
+     0.09%  cbc4522fq7is6cpa4g3jjb3ocahubpaexh45epeudnizpjd7p245.main.so
+     0.08%  c6lqnh7rktpm7ps7cs57u5qgtthjylu3zzm5s6hdwo7efdpglqhj.main.so
+     0.07%  cxklsmx4bbahqzki4wopmsmcmm4qcdbiiyxiysnq4p5d2z2eyp7s.main.so
+     0.05%  cuuilmliostsmianeei4sxzgec32istkbsekepnegku54u4mvzmh.main.so
+     0.03%  cqbv5j2rymmdnc5d5xo7ufhuwiyoghqhrdznrpiro6qwolzvi7vy.main.so
+     0.03%  ckuljzvekzhpoy7cwm7taaxhxtw5z3mxvk5firczftmps4zzro7d.main.so
+     0.03%  clgjv7fdoj4wnin7plqams7ni63ypfm63vpefbo63uhszjslwzm7.main.so
+     0.03%  c3pnpesmrpejblg37y5pls6f7s5l6x7ialowjprt6vrnplsywvos.main.so
+     0.02%  c2xcvwjml3m5czxslycsm7ymcsagls3dtkwpnr6fnfkw32lmhamm.main.so
+     0.02%  c56e7gij7oxdu7dmaa5ozzuazulizzjtgdbr2vbur6jgtx65ghef.main.so
+     0.02%  ccq6nlyecyp6zfbtcvniwzr53g5ph733gqh5ufeuvpscjdgt3elx.main.so
+     0.02%  _multiarray_umath.cpython-312-x86_64-linux-gnu.so           
+     0.02%  [vdso]                                                      
+     0.02%  libm.so.6                                                   
+     0.01%  c7crrajafvxbemxbux35d36oyqfi6sfrnfxard6zn4v4wpkkg4c6.main.so
+     0.01%  cynybzk3jryhxx3h2upqcxz2v4a2e6j3ijxalp4mhf3o5f3krbw5.main.so
+     0.01%  cpy54vdkuheino7mwbimehijbsd245q5rsvggxavwyoh77b4vqcr.main.so
+     0.01%  cztr7ri5fiwm7gw3534vn2aiw6alh5kdptdflj5bdsayk5iwwiw3.main.so
+     0.01%  cvfhcdejppw2oeuqzga35l2noedcyhugryczoyu2hdkhomvggqzp.main.so
+     0.01%  co5chimtdfemybzfycvd5hpaxq3kip5pxvxhdzixi45j4oepzr57.main.so
+     0.01%  c34cetbjsv47qwkori2phbezze73z56jejz7byk5fz77b5t6gmes.main.so
+     0.00%  libz.so.1.3                                                 
+     0.00%  cmgweb5qhigod7ymzgkfplhx3qjrevasrcpodpdc7th3tsxyiaxb.main.so
+     0.00%  _common.cpython-312-x86_64-linux-gnu.so                     
+     0.00%  _hashlib.cpython-312-x86_64-linux-gnu.so                    
+
+
+#
+# (Cannot load tips.txt file, please install perf!)
+#
